@@ -1,0 +1,40 @@
+  {
+    "blockType": "PAGE",
+    "geometry": {
+      "boundingBox": {
+        "width": 1.0,
+        "height": 1.0,
+        "left": 0.0,
+        "top": 0.0
+      },
+      "polygon": [
+        {
+          "x": 3.5773348E-7,
+          "y": 0.0
+        },
+        {
+          "x": 1.0,
+          "y": 3.5215373E-7
+        },
+        {
+          "x": 1.0,
+          "y": 1.0
+        },
+        {
+          "x": 0.0,
+          "y": 1.0
+        }
+      ]
+    },
+    "id": "14e0d6e8-8b25-43e6-9953-ea492395fee4",
+    "relationships": [
+      {
+        "type": "CHILD",
+        "ids": [
+          "c1e24cb4-e933-4e50-a25d-f0afe20dcefa"
+        ]
+      }
+    ],
+    "entityTypes": [],
+    "page": 1
+  }
